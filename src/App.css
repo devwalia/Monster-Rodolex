@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+h1{
+  font-family: 'Updock', cursive;
+  font-size:100px;
+  color:#170110;
+}
